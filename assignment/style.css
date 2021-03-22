@@ -1,0 +1,26 @@
+html {
+  text-align: center;
+  background-color: #8B87B4;
+}
+
+header {
+  background-color: #A9D025;
+  padding: 5px;
+}
+
+.info {
+  background-color: #D025C0;
+  color: blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+img {
+  width: 40%;
+}
+
+h3 {
+  background-color: #3525D0;
+  color: orange;
+  padding: 5px;
+}
